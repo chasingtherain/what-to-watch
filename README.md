@@ -3,10 +3,6 @@
 ## About
 What to Watch is a single-page application that recommends popular TV shows and movies to users based on IMDB ratings.
 
-The app is an optimisation application modelled after a Campaign Budget Optimiser (CBO). A CBO takes in a series of inputs and a numerical constraint to output a single return.
-The inputs are passed through a conditional control statement algorithm at each stage.
-The structure of the input is best represented as a decision tree.
-
 ### Tech Stack
 
 1. React
@@ -41,7 +37,7 @@ The project was broken down to three general parts.
 
 ### Problem-Solving Strategy
 
-_Divide and Conquer_. Split UI into it's atomic components and build them individually before merging them into _absolute units_ that provides value to end user (Thanks for reading! Check out r/AbsoluteUnits, the content is entertaining!).
+_Divide and Conquer_. Split UI into it's atomic components and build them individually before merging them into _absolute units_ that provide value to end user (Thanks for reading! Check out [r/AbsoluteUnits](https://www.reddit.com/r/AbsoluteUnits/), the content is entertaining!).
 
 ### Lessons Learned
 
