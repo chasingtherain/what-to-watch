@@ -12,9 +12,8 @@ What to Watch is a single-page application that recommends popular TV shows and 
 
 ### User Stories
 
-* A user can select either Movie or TV show genre on navigation bar.
-* After selecting a genre, user can choose to view either:
-    * Movies or TV shows that are currently topping the charts
+* By selecting the tabs provided, a user can browse:
+    * Movies or TV shows that are currently topping global charts
     * Most popular movies or TV shows of all time    
 * Based on user's selection, they should see:
     * Current Ranking
@@ -24,11 +23,7 @@ What to Watch is a single-page application that recommends popular TV shows and 
     * IMDb Rating
     * IMDb Rating Count
     * Change in Rank
-* A user can sort table result by clicking on the following headers:
-    * Current Ranking
-    * Release Year 
-    * IMDb Rating
-    * IMDb Rating Count
+* A user can sort table result by clicking on table headers
 
 ## Planning and Development Process
 
